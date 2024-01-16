@@ -1,0 +1,26 @@
+body { 
+    background-color: palegoldenrod;
+}
+span {
+    font-size: 30px;
+    margin-left: 80px;
+}
+#timer {
+    float: right; 
+    margin-right: 80px;
+}
+#neededSketch {
+    color:lightcoral; 
+    font-size: 30px;
+    font-variant: small-caps;
+    font-weight: 600;
+}
+.labels {
+    font-size : 25px; 
+    margin: 20px;
+}
+canvas {
+    background-color: whitesmoke;
+    border-radius: 20px;
+    border: 7px solid lightcoral;
+}
